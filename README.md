@@ -231,8 +231,4 @@ cd backend && npm start
 
 Built as part of a dental practice management system assessment.
 
-## 📧 Support
-
-For issues or questions, please contact the development team.
-
 ---
