@@ -1,0 +1,64 @@
+{
+  "name": "Bright Smile Dental Practice",
+  "address": {
+    "street": "1234 University Ave",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94301",
+    "formatted": "1234 University Ave, Palo Alto, CA 94301"
+  },
+  "contact": {
+    "phone": "650-321-1234",
+    "phoneFormatted": "650-321-1234",
+    "email": "info@brightsmiledental.com"
+  },
+  "hours": {
+    "monday": "8:00 AM - 6:00 PM",
+    "tuesday": "8:00 AM - 6:00 PM",
+    "wednesday": "8:00 AM - 6:00 PM",
+    "thursday": "8:00 AM - 6:00 PM",
+    "friday": "8:00 AM - 6:00 PM",
+    "saturday": "8:00 AM - 6:00 PM",
+    "sunday": "Closed",
+    "summary": "Mon-Sat: 8:00 AM - 6:00 PM, Closed Sunday"
+  },
+  "insurance": {
+    "accepted": [
+      "Blue Cross Blue Shield",
+      "Aetna",
+      "Cigna",
+      "Delta Dental",
+      "MetLife",
+      "United Healthcare",
+      "Humana"
+    ],
+    "noInsuranceOptions": "We offer self-pay options and flexible financing/membership plans for patients without insurance."
+  },
+  "appointmentTypes": [
+    {
+      "id": "cleaning",
+      "name": "Cleaning",
+      "emoji": "🪥",
+      "duration": 60
+    },
+    {
+      "id": "checkup",
+      "name": "General Checkup",
+      "emoji": "👨‍⚕️",
+      "duration": 45
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency",
+      "emoji": "🚨",
+      "duration": 30
+    }
+  ],
+  "features": [
+    "Free parking available",
+    "Wheelchair accessible",
+    "Family-friendly environment",
+    "Same-day emergency appointments"
+  ]
+}
+

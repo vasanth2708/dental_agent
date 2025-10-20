@@ -1,0 +1,42 @@
+{
+  "patients": [
+    {
+      "id": "p001",
+      "fullName": "vasanth gandham",
+      "phone": "8978521884",
+      "dateOfBirth": "08272000",
+      "insurance": "No Insurance",
+      "registeredDate": "2025-10-20",
+      "familyMembers": [
+        {
+          "name": "Runn",
+          "relationship": "brother",
+          "addedDate": "2025-10-20"
+        },
+        {
+          "name": "Bann",
+          "relationship": "brother",
+          "addedDate": "2025-10-20"
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "fullName": "Runn",
+      "phone": "8978521884",
+      "dateOfBirth": "08272000",
+      "insurance": "No Insurance",
+      "registeredDate": "2025-10-20",
+      "familyMembers": []
+    },
+    {
+      "id": "p003",
+      "fullName": "Bann",
+      "phone": "8978521884",
+      "dateOfBirth": "08272000",
+      "insurance": "No Insurance",
+      "registeredDate": "2025-10-20",
+      "familyMembers": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "emergencyAlerts": [
+    {
+      "id": "emg_1760929936990",
+      "patientName": "vasanth gandham",
+      "emergencyDetails": "met with an accident and broke my teeth",
+      "contactPhone": "8978521884",
+      "timestamp": "10/19/2025, 8:12:16 PM",
+      "status": "pending",
+      "alertedAt": "2025-10-20T03:12:16.990Z"
+    },
+    {
+      "id": "emg_1760943180550",
+      "patientName": "Unknown - Emergency Patient",
+      "emergencyDetails": "Met with accident and bleeding",
+      "contactPhone": "1234567890",
+      "timestamp": "10/19/2025, 11:53:00 PM",
+      "status": "pending",
+      "alertedAt": "2025-10-20T06:53:00.550Z"
+    },
+    {
+      "id": "emg_1760943195484",
+      "patientName": "runng",
+      "emergencyDetails": "Met with an accident and bleeding",
+      "contactPhone": "1234567890",
+      "timestamp": "10/19/2025, 11:53:15 PM",
+      "status": "pending",
+      "alertedAt": "2025-10-20T06:53:15.484Z"
+    },
+    {
+      "id": "emg_1760943868359",
+      "patientName": "john deo",
+      "emergencyDetails": "met with an accident and bleeding",
+      "contactPhone": "1234565432",
+      "timestamp": "10/20/2025, 12:04:28 AM",
+      "status": "pending",
+      "alertedAt": "2025-10-20T07:04:28.359Z"
+    }
+  ]
+}
