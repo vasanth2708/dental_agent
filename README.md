@@ -229,15 +229,6 @@ cd backend && npm start
 7. Feedback system: Rate responses with 👍/👎 buttons
 ```
 
-### Sample Test Data
-- **Existing Patient**: Phone "1234567890" (Krish Gandham)
-- **Family Patient**: Phone "5551234111" (John Doe with family members)
-- **New Registration**: Any 10-digit phone number not in system
-
-## 📝 License
-
-MIT License - See LICENSE file for details
-
 ## 🤝 Contributing
 
 Built as part of a dental practice management system assessment.
