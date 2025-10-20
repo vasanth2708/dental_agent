@@ -2,7 +2,7 @@
 
 A dental practice management chatbot built with Node.js, React, and multi-provider AI support (DeepSeek & Google Gemini).
 
-**Loom Video Link ** - https://www.loom.com/share/192f25f3efc247bea92527e50004c8ef?sid=2d441a16-b557-41bb-a97c-b710b8965585
+## Loom Video Link - https://www.loom.com/share/192f25f3efc247bea92527e50004c8ef?sid=2d441a16-b557-41bb-a97c-b710b8965585
 ## 🎯 Features
 
 ### Core Capabilities
