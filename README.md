@@ -58,9 +58,6 @@ GEMINI_API_KEY=your_gemini_api_key_here
 PORT=5000
 FRONTEND_URL=http://localhost:3000
 SESSION_SECRET=your_session_secret_here
-
-# Optional: Demo mode
-DEMO_MODE=false
 ```
 
 ### Running
